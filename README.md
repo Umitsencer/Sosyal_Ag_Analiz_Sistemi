@@ -1,7 +1,5 @@
 # Sosyal Ağ Analiz Sistemi
 
-![Proje Görseli](social_network.png)
-
 ## 📝 Proje Hakkında
 
 Bu proje, sosyal ağları analiz etmek için gelişmiş veri yapıları ve algoritmalar kullanan bir C uygulamasıdır. Kullanıcılar arasındaki ilişkileri modelleyerek, topluluk yapılarını analiz eder ve etki alanlarını hesaplar.
